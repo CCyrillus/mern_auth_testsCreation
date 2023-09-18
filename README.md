@@ -1,7 +1,7 @@
                         Documentation and setup instructions
 
 
-                          Data Modeling and ERD Diagrams for User app
+                  --Data Modeling and ERD Diagrams for User app--
       +-------------------------+
       |      User               |
       +-------------------------+
@@ -62,7 +62,7 @@
       |      path        |
       +------------------+
       
-                        Data Modeling and ERD Diagrams for testsCreation
+            --Data Modeling and ERD Diagrams for testsCreation--
 
       +-------------------------+
       |      User               |
